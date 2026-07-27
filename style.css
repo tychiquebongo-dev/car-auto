@@ -1,0 +1,10 @@
+nav  a {
+    text-decoration: none; /* enl
+    color: black; /* met en noir
+    font-weight: bold; /* met en 
+    font-size: 16px;
+    margin-right:  15px;  /* AJOUTE
+}
+    nav  a:hover  {
+        color :  #007bff;
+ }
